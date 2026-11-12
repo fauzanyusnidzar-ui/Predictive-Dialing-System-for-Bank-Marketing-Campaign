@@ -1,5 +1,3 @@
-# Predictive-Dialing-System-for-Bank-Marketing-Campaign
-
 # Bank Marketing Campaign: Predictive Dial ML for Term Deposit Subscription
 
 Optimizing marketing efficiency through machine learning to identify high-potential term deposit subscribers and significantly reduce campaign operational costs.
