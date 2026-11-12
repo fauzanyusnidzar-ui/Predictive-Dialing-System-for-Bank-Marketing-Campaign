@@ -90,4 +90,4 @@ Comparing the **Targeted Strategy (Threshold 0.40)** with the standard **Call Al
 5. **Model Governance:** Review performance every 3–6 months and retrain if Recall drops below 70%.
 
 ---
-*Created as part of Capstone Project III. Full details can be found in `bank_marketing_ml_presentation.pdf`.*
+*Created as part of Capstone Project III. Full details can be found in `Bank Marketing Campaign — Predictive Dial ML (BOD).pdf`.*
